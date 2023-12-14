@@ -14,7 +14,12 @@
 -💻 Developed web applications from scratch using ASP.NET Core, Angular, and Entity Framework
 
 -💻 Designed and implemented scalable back-end solutions using C#,ASP.Net Core MVC, and .NET technologies
-  
+
+  ## Preferred Languages.
+<div>
+<img src="https://img.shields.io/badge/C%23-darkgreen?&style=for-the-badge&logo=c-sharp&logoColor=white"/>
+</div>
+
 ## Databases
 <div>
 <img src="https://img.shields.io/badge/mysql-black?&style=for-the-badge&logo=mysql&logoColor=white"/>
