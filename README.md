@@ -7,7 +7,3 @@
 
 -⏯ My goal is to make websites and software that people find useful.
 
-<p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=rabeeadelbeabesh&label=Profile%20views&color=0e75b6&style=plastic" alt="rabeeadelbeabesh" /> 
-</p>
-<br>
