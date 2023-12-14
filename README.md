@@ -5,8 +5,12 @@
 
 -💻 I'm been practicing programming for over 6 years and I'm always learning and always improving!
 
--⏯ My goal is to make websites and software that people find useful.
+-⏯  My goal is to make websites and software that people find useful.
 
+-🎓 Bachelor of Information Systems - Faculty of Computers and Information, Assiut University 2022
+
+-🎓 Professional Web Development & BI Track(PWD)-Intake43, Information Technology Institute (ITI) - Ministry of Communication and Information Technology (MCIT)
+  
 ## Databases
 <div>
 <img src="https://img.shields.io/badge/mysql-black?&style=for-the-badge&logo=mysql&logoColor=white"/>
