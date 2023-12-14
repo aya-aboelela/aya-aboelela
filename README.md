@@ -9,7 +9,7 @@
 
 -🎓 Bachelor of Information Systems - Faculty of Computers and Information, Assiut University 2022
 
--🎓 Professional Web Development & BI Track(PWD)-Intake43, Information Technology Institute (ITI) - Ministry of Communication and Information Technology (MCIT)
+-🎓 Professional Web Development & BI Track(PWD)-Intake43, Information Technology Institute (ITI) - Ministry of Communication and Information Technology (MCIT) 2023
   
 ## Databases
 <div>
