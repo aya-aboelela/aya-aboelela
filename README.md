@@ -7,3 +7,8 @@
 
 -⏯ My goal is to make websites and software that people find useful.
 
+## Databases
+<div>
+<img src="https://img.shields.io/badge/mysql-black?&style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src ="https://img.shields.io/badge/sql-%234ea94b.svg?&style=for-the-badge&logo=SQL&logoColor=white"/>
+</div>
