@@ -11,9 +11,9 @@
 
 -🎓 Professional Web Development & BI Track(PWD)-Intake43, Information Technology Institute (ITI) - Ministry of Communication and Information Technology (MCIT) 2023
 
-- Developed web applications from scratch using ASP.NET Core, Angular, and Entity Framework
+-Developed web applications from scratch using ASP.NET Core, Angular, and Entity Framework
 
-- Designed and implemented scalable back-end solutions using C#,ASP.Net Core MVC, and .NET technologies
+-Designed and implemented scalable back-end solutions using C#,ASP.Net Core MVC, and .NET technologies
   
 ## Databases
 <div>
